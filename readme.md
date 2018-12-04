@@ -20,3 +20,17 @@ python3 notify.py
 ```
 
 it is never ending loop so if you want to quit you have to use `Ctrl+C` in terminal
+
+## 25min.py
+This application is about 25min work and 5 min break during your office work
+It uses `ntfy` to notify you every 30mm that it's time for a break
+
+```
+pip3 install dbus-python
+pip3 install ntfy
+```
+
+to run it:
+```
+python3 25min.py
+```
