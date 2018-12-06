@@ -34,3 +34,16 @@ to run it:
 ```
 python3 25min.py
 ```
+
+## kodpocztowy.py
+this app is useful only for polish people who is looking for a zip code from city and street
+
+How to use is
+```
+pip3 install BeautifulSoup
+```
+
+to run it
+```
+python3 kodpocztowy.py "city" "street"
+```
