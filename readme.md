@@ -36,6 +36,7 @@ python3 25min.py
 ```
 
 ## kodpocztowy.py
+[Bug: cannot use polish letter]
 this app is useful only for polish people who is looking for a zip code from city and street
 
 How to use is
@@ -46,4 +47,17 @@ pip3 install BeautifulSoup
 to run it
 ```
 python3 kodpocztowy.py "city" "street"
+```
+
+## simple REST application
+I'm trying to make some server with API so this is just a training app which use Flak as a server
+
+pre
+```
+pip3 install Flask
+```
+
+use
+```
+python3 server.py
 ```
